@@ -1,8 +1,6 @@
 
 # README - Jogo Pong
 
-![Pong](https://github.com/seuusuario/seurepositorio/raw/main/pong-screenshot.png)
-
 Este é um projeto simples e divertido que recria o clássico jogo Pong usando JavaScript. É um projeto que se concentra em demonstrar os principais conceitos de lógica de programação em JavaScript, além de abordar o uso de recursos externos, como sons e boas práticas de programação.
 
 ## Funcionalidades
