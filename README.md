@@ -1,4 +1,4 @@
-```markdown
+
 # README - Jogo Pong
 
 ![Pong](https://github.com/seuusuario/seurepositorio/raw/main/pong-screenshot.png)
